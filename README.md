@@ -7,4 +7,4 @@ les matrices représente les routes avec des couples composés du type de la rou
 Hypothèses simplificatrices:
 -Tous les conducteurs partent du point A pour aller au B (pas d'ajout ou de retrait en cours)
 - le programme foctionne par tour, un tour finit quand tous les conducteurs ont parcouru une route, donc à chaque tour ils partent tous en même temps, peu importe leurs précédents temps de parcours.
-- pas d'accidents, de travaux, d'obstacles,... autres que ceux prévus ( avec les fonctions intégrer_obst et obstacles)
+- pas d'accidents, de travaux, d'obstacles,... autres que ceux prévus ( avec les fonctions intégrer_obst et obstacle)
