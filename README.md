@@ -1,4 +1,4 @@
-# Paradoxe-de-Braess
+# Paradoxe-de-Braess Python
 
 Mon projet de Tipe sur le thème de la ville.
 
